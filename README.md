@@ -9,5 +9,7 @@ there is a scala version i created for this - [https://github.com/boonhero/car-a
 
 - Run the spring application using commandline on the root folder `mvn spring-boot:run`
 
+- Run on browser `http://localhost:8080/car-advert`
+
 
 
